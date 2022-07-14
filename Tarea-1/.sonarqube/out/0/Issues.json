@@ -12,204 +12,6 @@
       },
       "results": [
         {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'StreamReader' es una referencia ambigua entre 'System.IO.StreamReader' y 'System.IO.StreamReader'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 62,
-                  "startColumn": 24,
-                  "endLine": 62,
-                  "endColumn": 36
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'StreamReader' es una referencia ambigua entre 'System.IO.StreamReader' y 'System.IO.StreamReader'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 62,
-                  "startColumn": 46,
-                  "endLine": 62,
-                  "endColumn": 58
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'FileStream' es una referencia ambigua entre 'System.IO.FileStream' y 'System.IO.FileStream'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 70,
-                  "startColumn": 36,
-                  "endLine": 70,
-                  "endColumn": 46
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'FileStream' es una referencia ambigua entre 'System.IO.FileStream' y 'System.IO.FileStream'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 70,
-                  "startColumn": 64,
-                  "endLine": 70,
-                  "endColumn": 74
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'FileMode' es una referencia ambigua entre 'System.IO.FileMode' y 'System.IO.FileMode'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 70,
-                  "startColumn": 88,
-                  "endLine": 70,
-                  "endColumn": 96
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'StreamWriter' es una referencia ambigua entre 'System.IO.StreamWriter' y 'System.IO.StreamWriter'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 85,
-                  "startColumn": 48,
-                  "endLine": 85,
-                  "endColumn": 60
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'FileStream' es una referencia ambigua entre 'System.IO.FileStream' y 'System.IO.FileStream'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 156,
-                  "startColumn": 24,
-                  "endLine": 156,
-                  "endColumn": 34
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'FileMode' es una referencia ambigua entre 'System.IO.FileMode' y 'System.IO.FileMode'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 156,
-                  "startColumn": 65,
-                  "endLine": 156,
-                  "endColumn": 73
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'MemoryStream' es una referencia ambigua entre 'System.IO.MemoryStream' y 'System.IO.MemoryStream'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 170,
-                  "startColumn": 32,
-                  "endLine": 170,
-                  "endColumn": 44
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'MemoryStream' es una referencia ambigua entre 'System.IO.MemoryStream' y 'System.IO.MemoryStream'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 170,
-                  "startColumn": 61,
-                  "endLine": 170,
-                  "endColumn": 73
-                }
-              }
-            }
-          ]
-        },
-        {
-          "ruleId": "CS0104",
-          "level": "error",
-          "message": "'StreamReader' es una referencia ambigua entre 'System.IO.StreamReader' y 'System.IO.StreamReader'",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
-                "region": {
-                  "startLine": 177,
-                  "startColumn": 40,
-                  "endLine": 177,
-                  "endColumn": 52
-                }
-              }
-            }
-          ]
-        },
-        {
           "ruleId": "CS8600",
           "level": "warning",
           "message": "Se va a convertir un literal nulo o un posible valor nulo en un tipo que no acepta valores NULL",
@@ -399,6 +201,111 @@
           }
         },
         {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Se va a convertir un literal nulo o un posible valor nulo en un tipo que no acepta valores NULL",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
+                "region": {
+                  "startLine": 64,
+                  "startColumn": 28,
+                  "endLine": 64,
+                  "endColumn": 41
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CS8600",
+          "level": "warning",
+          "message": "Se va a convertir un literal nulo o un posible valor nulo en un tipo que no acepta valores NULL",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
+                "region": {
+                  "startLine": 99,
+                  "startColumn": 32,
+                  "endLine": 99,
+                  "endColumn": 45
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S1118",
+          "level": "warning",
+          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 18,
+                  "endLine": 7,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1050",
+          "level": "note",
+          "message": "Declare types in namespaces",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 18,
+                  "endLine": 7,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "S3903",
+          "level": "warning",
+          "message": "Move 'Program' into a named namespace.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
+                "region": {
+                  "startLine": 7,
+                  "startColumn": 18,
+                  "endLine": 7,
+                  "endColumn": 25
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S125",
           "level": "warning",
           "message": "Remove this commented out code.",
@@ -504,69 +411,6 @@
           }
         },
         {
-          "ruleId": "S1118",
-          "level": "warning",
-          "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 18,
-                  "endLine": 7,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CA1050",
-          "level": "note",
-          "message": "Declare types in namespaces",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 18,
-                  "endLine": 7,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "S3903",
-          "level": "warning",
-          "message": "Move 'Program' into a named namespace.",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
-                "region": {
-                  "startLine": 7,
-                  "startColumn": 18,
-                  "endLine": 7,
-                  "endColumn": 25
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "S1940",
           "level": "warning",
           "message": "Use the opposite operator ('!=') instead.",
@@ -628,6 +472,48 @@
           "properties": {
             "warningLevel": 1
           }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'DesEncryptContentFileText' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
+                "region": {
+                  "startLine": 109,
+                  "startColumn": 21,
+                  "endLine": 109,
+                  "endColumn": 46
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'EncryptContentFileText' does not access instance data and can be marked as static",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
+                "region": {
+                  "startLine": 17,
+                  "startColumn": 21,
+                  "endLine": 17,
+                  "endColumn": 43
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
         }
       ],
       "rules": {
@@ -647,17 +533,19 @@
             ]
           }
         },
-        "CS0104": {
-          "id": "CS0104",
-          "defaultLevel": "error",
-          "helpUri": "https://msdn.microsoft.com/query/roslyn.query?appId=roslyn&k=k(CS0104)",
+        "CA1822": {
+          "id": "CA1822",
+          "shortDescription": "Mark members as static",
+          "fullDescription": "Members that do not access instance data or call instance methods can be marked as static. After you mark the methods as static, the compiler will emit nonvirtual call sites to these members. This can give you a measurable performance gain for performance-sensitive code.",
+          "defaultLevel": "note",
+          "helpUri": "https://docs.microsoft.com/dotnet/fundamentals/code-analysis/quality-rules/ca1822",
           "properties": {
-            "category": "Compiler",
+            "category": "Performance",
             "isEnabledByDefault": true,
             "tags": [
-              "Compiler",
+              "PortedFromFxCop",
               "Telemetry",
-              "NotConfigurable"
+              "EnabledRuleInAggressiveMode"
             ]
           }
         },
