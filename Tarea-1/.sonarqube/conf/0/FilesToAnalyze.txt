@@ -1,0 +1,2 @@
+﻿D:\Users\luis_\Source\Repos\prueba-codigo\Tarea-1\Program.cs
+D:\Users\luis_\Source\Repos\prueba-codigo\Tarea-1\Utilitario\Encrypted.cs
