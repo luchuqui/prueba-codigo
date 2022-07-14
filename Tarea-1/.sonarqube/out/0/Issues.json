@@ -159,27 +159,6 @@
           }
         },
         {
-          "ruleId": "CS8600",
-          "level": "warning",
-          "message": "Se va a convertir un literal nulo o un posible valor nulo en un tipo que no acepta valores NULL",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
-                "region": {
-                  "startLine": 44,
-                  "startColumn": 30,
-                  "endLine": 44,
-                  "endColumn": 48
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
           "ruleId": "CS8604",
           "level": "warning",
           "message": "Posible argumento de referencia nulo para el parámetro \"fileEncrypt\" en \"void Encrypted.DesEncryptContentFileText(string fileEncrypt, string keyAES, string fileClear)\".",
@@ -188,31 +167,10 @@
               "resultFile": {
                 "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
                 "region": {
-                  "startLine": 45,
-                  "startColumn": 53,
-                  "endLine": 45,
-                  "endColumn": 64
-                }
-              }
-            }
-          ],
-          "properties": {
-            "warningLevel": 1
-          }
-        },
-        {
-          "ruleId": "CS8604",
-          "level": "warning",
-          "message": "Posible argumento de referencia nulo para el parámetro \"keyAES\" en \"void Encrypted.DesEncryptContentFileText(string fileEncrypt, string keyAES, string fileClear)\".",
-          "locations": [
-            {
-              "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
-                "region": {
                   "startLine": 46,
-                  "startColumn": 17,
+                  "startColumn": 53,
                   "endLine": 46,
-                  "endColumn": 20
+                  "endColumn": 64
                 }
               }
             }
@@ -230,9 +188,9 @@
               "resultFile": {
                 "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
                 "region": {
-                  "startLine": 47,
+                  "startLine": 48,
                   "startColumn": 17,
-                  "endLine": 47,
+                  "endLine": 48,
                   "endColumn": 26
                 }
               }
@@ -327,6 +285,27 @@
           }
         },
         {
+          "ruleId": "S125",
+          "level": "warning",
+          "message": "Remove this commented out code.",
+          "locations": [
+            {
+              "resultFile": {
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
+                "region": {
+                  "startLine": 43,
+                  "startColumn": 17,
+                  "endLine": 43,
+                  "endColumn": 71
+                }
+              }
+            }
+          ],
+          "properties": {
+            "warningLevel": 1
+          }
+        },
+        {
           "ruleId": "S1118",
           "level": "warning",
           "message": "Add a 'protected' constructor or the 'static' keyword to the class declaration.",
@@ -390,18 +369,18 @@
           }
         },
         {
-          "ruleId": "CA1822",
-          "level": "note",
-          "message": "Member 'EncryptContentFileText' does not access instance data and can be marked as static",
+          "ruleId": "S1481",
+          "level": "warning",
+          "message": "Remove the unused local variable 'c'.",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
                 "region": {
-                  "startLine": 17,
-                  "startColumn": 21,
-                  "endLine": 17,
-                  "endColumn": 43
+                  "startLine": 18,
+                  "startColumn": 17,
+                  "endLine": 18,
+                  "endColumn": 18
                 }
               }
             }
@@ -432,18 +411,18 @@
           }
         },
         {
-          "ruleId": "S1481",
-          "level": "warning",
-          "message": "Remove the unused local variable 'c'.",
+          "ruleId": "CA1822",
+          "level": "note",
+          "message": "Member 'EncryptContentFileText' does not access instance data and can be marked as static",
           "locations": [
             {
               "resultFile": {
-                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Program.cs",
+                "uri": "file:///D:/Users/luis_/Source/Repos/prueba-codigo/Tarea-1/Utilitario/Encrypted.cs",
                 "region": {
-                  "startLine": 18,
-                  "startColumn": 17,
-                  "endLine": 18,
-                  "endColumn": 18
+                  "startLine": 17,
+                  "startColumn": 21,
+                  "endLine": 17,
+                  "endColumn": 43
                 }
               }
             }

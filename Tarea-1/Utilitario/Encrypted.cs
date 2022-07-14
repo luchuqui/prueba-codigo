@@ -16,6 +16,7 @@ namespace Tarea_1.Utilitario
         */
         public void EncryptContentFileText(string fileName, string keyAES, string fileEncrypt)
         {
+            keyAES = "1234567890ABCDEF";
             //string.IsNullOrEmpty la variable está con información
             int i = 0;//i es una variable de validación de campo
             if (string.IsNullOrEmpty(fileName))//extension txt
@@ -107,6 +108,7 @@ namespace Tarea_1.Utilitario
 
         public void DesEncryptContentFileText(string fileEncrypt, string keyAES, string fileClear)
         {
+            keyAES = "1234567890ABCDEF";
              //string.IsNullOrEmpty la variable está con información
             int i = 0;//i es una variable de validación de campo
             if (string.IsNullOrEmpty(fileEncrypt))
