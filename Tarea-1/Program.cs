@@ -40,8 +40,9 @@ namespace Tarea_1
                 string fileEncrypt = Console.ReadLine();
                 Console.WriteLine("Ingrese el nombre del archivo destino");
                 string fileClear = Console.ReadLine();
-                Console.WriteLine("Ingrese llave de 16 caracteres");
-                string key = Console.ReadLine();
+                /*Console.WriteLine("Ingrese llave de 16 caracteres");
+                string key = Console.ReadLine();*/
+                string key = "0123456789ABCDEF";
                 encrypted.DesEncryptContentFileText(fileEncrypt
               , key
               , fileClear);
