@@ -1,7 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Tarea_1.Utilitario;
-namespace Tarea_1
-{
+/*namespace Tarea_1
+{*/
     //Console.WriteLine("Hello, World!");
     //Inicializando el objeto
     public class Program
@@ -49,6 +49,6 @@ namespace Tarea_1
             }
         }
     }
-}
+//}
 /**/
 
