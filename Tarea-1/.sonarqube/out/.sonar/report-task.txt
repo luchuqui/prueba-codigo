@@ -1,6 +1,0 @@
-projectKey=luchuqui_sucesos_registros_AYH6fx3B5zyxBwTYB4ma
-serverUrl=http://localhost:9000
-serverVersion=9.5.0.56709
-dashboardUrl=http://localhost:9000/dashboard?id=luchuqui_sucesos_registros_AYH6fx3B5zyxBwTYB4ma
-ceTaskId=AYH61kgm5zyxBwTYB4nR
-ceTaskUrl=http://localhost:9000/api/ce/task?id=AYH61kgm5zyxBwTYB4nR
