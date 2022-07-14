@@ -1,9 +1,5 @@
-Æ
-<D:\Users\luis_\Source\Repos\prueba-codigo\Tarea-1\Program.cs
-	namespace 	
-Tarea_1
- 
-{ 
+‚
+<D:\Users\luis_\Source\Repos\prueba-codigo\Tarea-1\Program.cs
 public 
 
 class 
@@ -229,8 +225,7 @@
 ;00 
 }11 
 }22 	
-}33 
-}44 às
+}33 às
 ID:\Users\luis_\Source\Repos\prueba-codigo\Tarea-1\Utilitario\Encrypted.cs
 	namespace 	
 Tarea_1

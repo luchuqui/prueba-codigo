@@ -7,7 +7,7 @@
   <HasBeginStepCommandLineCredentials>true</HasBeginStepCommandLineCredentials>
   <SonarQubeHostUrl>http://localhost:9000</SonarQubeHostUrl>
   <SonarQubeVersion>9.5.0.56709</SonarQubeVersion>
-  <SonarProjectKey>luchuqui_prueba-codigo_AYH-8GSBKQim2LtXGbE8</SonarProjectKey>
+  <SonarProjectKey>luchuqui_prueba-codigo_AYH_DZ80KQim2LtXGbFS</SonarProjectKey>
   <AdditionalConfig>
     <ConfigSetting Id="BuildUri" />
     <ConfigSetting Id="TfsUri" />
